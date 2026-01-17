@@ -11,16 +11,16 @@
 ## Spotify 🎶
 
 <a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="https://bymicah.vercel.app/api?spin=true&rainbow=true&theme=dark" />
+  <img src="https://spotify-bymicah.vercel.app/api?spin=true&rainbow=true&theme=dark" />
 </a>
 
 ## GitHub Stats 🚀
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=bymicah&theme=tokyonight&show_icons=true&hide_rank=true&hide_border=true&hide=contribs" />
+  <img src="https://githubstats-bymicah.vercel.app/api?username=bymicah&theme=tokyonight&show_icons=true&hide_rank=true&hide_border=true&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymicah&theme=tokyonight&layout=compact&langs_count=5&hide_border=true" />
+  <img src="https://githubstats-bymicah.vercel.app/api/top-langs/?username=bymicah&theme=tokyonight&layout=compact&langs_count=5&hide_border=true" />
 </a>
 
 <details>
